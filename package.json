@@ -1,0 +1,19 @@
+{
+  "name": "hello-codesandbox",
+  "version": "0.1.0",
+  "description": "Getting to know Codesandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thiagoarrais@github.com/thiagoarrais/hello-codesandbox.git"
+  },
+  "author": "Thiago Arrais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoarrais/hello-codesandbox/issues"
+  },
+  "homepage": "https://github.com/thiagoarrais/hello-codesandbox#readme"
+}
