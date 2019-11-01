@@ -1,5 +1,5 @@
 {
-  "name": "hello-codesandbox",
+  "name": "@thiagoarrais/hello-codesandbox",
   "version": "0.1.0",
   "description": "Getting to know Codesandbox",
   "main": "index.js",
